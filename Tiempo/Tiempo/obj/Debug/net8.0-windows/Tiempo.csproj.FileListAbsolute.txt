@@ -1,0 +1,17 @@
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\bin\Debug\net8.0-windows\Tiempo.exe
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\bin\Debug\net8.0-windows\Tiempo.deps.json
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\bin\Debug\net8.0-windows\Tiempo.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\bin\Debug\net8.0-windows\Tiempo.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\bin\Debug\net8.0-windows\Tiempo.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.Form1.resources
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.Properties.Resources.resources
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.csproj.GenerateResource.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\refint\Tiempo.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\Tiempo.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Tiempo\Tiempo\obj\Debug\net8.0-windows\ref\Tiempo.dll

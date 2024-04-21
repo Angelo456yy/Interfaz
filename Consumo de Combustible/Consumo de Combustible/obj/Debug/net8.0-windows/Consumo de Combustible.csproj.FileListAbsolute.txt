@@ -1,0 +1,17 @@
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\bin\Debug\net8.0-windows\Consumo de Combustible.exe
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\bin\Debug\net8.0-windows\Consumo de Combustible.deps.json
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\bin\Debug\net8.0-windows\Consumo de Combustible.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\bin\Debug\net8.0-windows\Consumo de Combustible.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\bin\Debug\net8.0-windows\Consumo de Combustible.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo_de_Combustible.Form1.resources
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.csproj.GenerateResource.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\refint\Consumo de Combustible.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.pdb
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo de Combustible.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\ref\Consumo de Combustible.dll
+C:\Users\al881\OneDrive\Escritorio\desafio4\Consumo de Combustible\Consumo de Combustible\obj\Debug\net8.0-windows\Consumo_de_Combustible.Properties.Resources.resources
